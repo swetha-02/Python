@@ -1,0 +1,5 @@
+Name:Swetha
+Designation:Software Engineer Trainee
+Company Name:BUSOFT Tech
+Experience:1 year
+Skill Set:Python,HTML,CSS,JavaScript,SQL
